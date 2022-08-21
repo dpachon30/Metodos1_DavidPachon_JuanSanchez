@@ -1,8 +1,8 @@
-echo "Bienvenido a la calculadora de número factorial\n"
-echo "Ingresa el número factorial que deseas conocer"
+#echo "Bienvenido a la calculadora de número factorial\n"
+#echo "Ingresa el número factorial que deseas conocer"
 
-read VALOR
-
+#read VALOR
+VALOR=$1
 i=1
 num=$VALOR
 
