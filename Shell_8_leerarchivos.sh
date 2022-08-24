@@ -3,7 +3,7 @@ while IFS= read -r line
 do
   RUTAS[i]=$line
   i=`expr $i + 1`
-done < lista.dat
+done < $1
 
 echo " ${RUTAS[2]}"
 
