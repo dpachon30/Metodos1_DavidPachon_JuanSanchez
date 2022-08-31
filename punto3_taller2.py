@@ -23,8 +23,8 @@ plt.plot(x,y)
 
 h  = 0.05
 
-print(y)
-print(y[9])
+#print(y)
+#print(y[9])
 M = [1,0,-1] 
 
 M = [-1,0,1 ]   
